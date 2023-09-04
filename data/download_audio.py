@@ -1,0 +1,1 @@
+! wget --user=broca --ask-password -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/dementia/English/Pitt/
